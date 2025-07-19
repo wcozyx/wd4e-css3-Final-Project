@@ -6,7 +6,6 @@ body {
 }
 
 .skip-link {
-  /* Hide by default */
   position: absolute;
   left: -9999px;
   top: auto;
@@ -15,7 +14,6 @@ body {
   overflow: hidden;
   z-index: 999;
   
-  /* Styling when focused */
   &:focus {
     position: fixed;
     left: 1rem;

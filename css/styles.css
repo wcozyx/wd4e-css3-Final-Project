@@ -61,7 +61,7 @@ nav li {
 }
 
 nav li:hover {
-    font-size: 130%;
+    transform: scale(1.05);
 }
 
 nav li.active a {

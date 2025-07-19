@@ -50,7 +50,6 @@ nav ul {
     justify-content: space-around;
     align-items: center;
     width: 100%;
-    color: #1c567a;
     gap: 20px;
 }
 
@@ -71,7 +70,7 @@ nav li.active a {
     text-transform: uppercase;
 }
 
-nav a:visited {
+nav a:visited, a:link {
     color: #1c567a;
 }
 

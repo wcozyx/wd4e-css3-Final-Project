@@ -118,6 +118,10 @@ p {
     border-radius: 5px;
 }
 
+.colorBlocks div:hover {
+    border: 3px solid #1c567a;
+}
+
 .colorExamples {
     align-items: center;  
     display:flex;
